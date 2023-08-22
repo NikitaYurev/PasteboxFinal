@@ -1,0 +1,12 @@
+ua\sendel\pastebox\pasteboxfinal\repository\PasteboxRepository.class
+ua\sendel\pastebox\pasteboxfinal\repository\PasteboxRepositoryMap.class
+ua\sendel\pastebox\pasteboxfinal\api\response\PasteboxUrlResponse.class
+ua\sendel\pastebox\pasteboxfinal\api\request\PasteboxRequest.class
+ua\sendel\pastebox\pasteboxfinal\api\response\PasteboxResponse.class
+ua\sendel\pastebox\pasteboxfinal\exception\NotFoundEntityException.class
+ua\sendel\pastebox\pasteboxfinal\controller\PasteboxController.class
+ua\sendel\pastebox\pasteboxfinal\repository\PasteBoxEntity.class
+ua\sendel\pastebox\pasteboxfinal\service\PasteboxService.class
+ua\sendel\pastebox\pasteboxfinal\api\request\PublicStatus.class
+ua\sendel\pastebox\pasteboxfinal\PasteboxFinalApplication.class
+ua\sendel\pastebox\pasteboxfinal\service\PasteboxServiceImpl.class
